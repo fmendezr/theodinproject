@@ -5,7 +5,7 @@ class CourseDecorator < ApplicationDecorator
 
   private
 
-  def course
+  def cours
     __getobj__
   end
 end
